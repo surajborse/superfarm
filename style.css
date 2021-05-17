@@ -125,8 +125,7 @@ nav{
     top: 0;
     left: 0;
     position: sticky !important;
-    border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20px;
+    
 }
 
 .main-nav{
